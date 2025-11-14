@@ -12,7 +12,7 @@ had the information I was after! For once, I should have started there.
 ## The Articles
 
 * [_Interface Age_ article, p. 131](https://archive.org/details/197706InterfaceAge/page/131/mode/1up)
-* [_Interface Age_ article](doc/interface_age-starlanes.pdf) (local)
+* [_Interface Age_ article](doc/interface_age-starlanes.pdf) (local, lower resolution)
 * [Image of the source from that article](doc/listing.jpg) (local)
 
 ## Sources
